@@ -1,0 +1,77 @@
+.tong {
+    margin-top: 20px;
+    width: 1440px;
+    height: 520px;
+}
+.tong .trai {
+    height: 100%;
+    width: 20%;
+    float: left;
+   
+}
+.tong .trai .khoitrai {
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.tong .trai .khoitrai img {
+    height: 55%;
+    width: 95%;
+}
+.tong .trai .khoitrai a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: Black;
+}
+.tong .giua {
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.tong .giua img {
+   width: 90%;
+   height: 65%;
+}
+.tong .giua a {
+    font-size: 28px;
+    font-weight: bold;
+    color :black;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.tong .giua p {
+    height: 15%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tong .phai {
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+.tong .phai .khoiphai{
+    height: 20%;
+    width: 100%;
+}
+.tong .phai .khoiphai a {
+    width: 75%;
+    font-size:17px ;
+    float:left;
+    font-weight:bold ;
+    padding-top: 20px;
+    font-family: aaa;
+    color: black;
+    text-decoration: none;
+}
+.tong .phai .khoiphai img {
+    width: 23%;
+    padding-top: 10px;
+    float: right;
+}
+@font-face {
+    
+    src: url(/Plugin/Noto_Serif_TC/NotoSerifTC-Regular.otf);
+    font-family: aaa;
+}
+

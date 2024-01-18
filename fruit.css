@@ -1,0 +1,16 @@
+div .containere {
+    width: 1600px;
+    height: 800px;
+}
+div .container .cone {
+    height: 266px;
+     width: 100%;
+   }
+.container .cone img {
+       height: 205px ;
+       width: 270px;
+       float: left ;
+}
+.container h1 {
+       font-size:  50px;
+}

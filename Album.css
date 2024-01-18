@@ -1,0 +1,17 @@
+.containere {
+    width: 1450px;
+    height: 580px;
+}
+.containere .khoinhobe {
+    width: 100%;
+    height: 320px ;
+}
+.containere .khoinhobe img{
+    width: 360px;
+    height: 275px;
+    float: left;
+}
+.containere h1 {
+    font-size: 32px;
+    text-align: center;
+}

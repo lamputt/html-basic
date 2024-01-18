@@ -1,0 +1,23 @@
+.container {
+    width: 530px;
+    height: 640px;
+}
+.container .khoinho {
+    width: 100%;
+    height: 108px;
+}
+.container .khoinho img {
+    width: 200px;
+    height: 130px;
+    float: left;
+    padding-right: 10px;
+}
+.container .khoinho h1{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #4d4d64;
+    line-height: 27px;
+}
+.container .khoinho h1:hover{
+    color:rgb(31, 31, 246);
+}

@@ -1,0 +1,21 @@
+.container{
+border: 2px #414141 solid; 
+margin-left: 100px;
+margin-right: 100px;
+}
+.container p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    margin-top: 100px;
+    padding-top: px;
+}
+.container img {
+    width: 30px;
+    height: 40px;
+}
+.container ul li {
+ margin-left: 150px;
+ margin-right: 50px;
+ padding-left: 1px;
+}

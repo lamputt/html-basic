@@ -1,0 +1,48 @@
+.tong {
+    width: 1470px;
+    height: 560px;
+}
+.tong .tren {
+    height: 30%;
+    width: 100%;
+}
+@font-face {
+    src: url("/Plugin/EB_Garamond/EBGaramond-Italic-VariableFont_wght.ttf");
+    font-family:h1;
+}
+.tong .tren h1 {
+ font-family: h1;
+ font-weight: lighter;
+ font-size: 35px;
+ text-align: center;
+ color: rgb(73, 73, 219);
+}
+.tong .tren h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: center;
+    color: rgb(73, 73, 219);
+}
+.tong .tren h3 {
+    font-family: h1;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(73, 73, 219);
+}
+.tong .duoi {
+    height: 70%;
+    width: 70%;
+    margin-left: 15%;
+}
+.tong .duoi img {
+    float: left;
+    height: 70%;
+    width: 23%;
+}
+.tong .duoi p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+.tong .duoi address {
+    text-align: right;
+}

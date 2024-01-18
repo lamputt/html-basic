@@ -1,0 +1,23 @@
+.container {
+height: 700px;
+width: 650px;
+}
+.container .conn {
+   height: 115px;
+   width: 100%;
+}
+.container .conn h1 {
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 20px;
+}
+.container .conn img {
+   width: 250px;
+   height: 130px;
+    float : left;
+    padding-right : 10px    
+}
+.container .conn p {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}

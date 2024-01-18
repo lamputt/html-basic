@@ -1,0 +1,16 @@
+.container {
+
+border: 2px #414141 solid; 
+margin: auto;
+}
+.container p {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.container img {
+    width: 400px;
+    height: 600px;
+    
+}
+

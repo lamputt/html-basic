@@ -1,0 +1,20 @@
+table ,th , td {
+    border : solid 3px white;
+    text-align: left;
+    border-collapse: collapse;
+}
+.msv {
+    width: 150px;
+}
+.hvt {
+    width: 170px;
+}
+.D {
+    width: 60px;
+}
+.M {
+    width: 90px;
+}
+tr:nth-child(even) {
+    background-color: #3db71e;
+  }

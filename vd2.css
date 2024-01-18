@@ -1,0 +1,26 @@
+body{
+    background-image: url("/Image/hinh-nen-co-trang-trung-quoc_2.jpg");
+}
+.tong {
+    width: 850px;
+    height: 300px;
+    margin: auto;
+    padding-top: 70px;
+}
+.tong .khoi {
+    width: 250px;
+    height: 300px;
+    color: white;
+    float: left;
+    text-align: center;
+    background: #262626;
+    margin-right: 20px;
+}
+.nutnhan {
+    background-color: aqua;
+    width: 200px;
+    height: 40px;
+}
+.tien {
+    font-size: 50px;
+}

@@ -1,0 +1,38 @@
+.tong .khoi{
+    width: 350px;
+    height: 280px;
+    border: 1px black solid;
+    margin: auto;
+}
+.khoi img.layer1{
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+.khoi .layer2{
+    z-index: 2;
+    position: absolute;
+    top: 3px;
+    left: 384px;
+}
+.khoi .layer3{
+    z-index: 3;
+    position: absolute;
+    bottom: 467px;
+    left:150px;
+    opacity: 0;
+}
+.khoi:hover .layer3{
+    opacity:1;
+    transition: 2s;
+    transform:scale(2);
+}
+.layer4{
+    width: 100%;
+    height: 100%;
+    background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.119) 50%,black 100%);
+    z-index: 4;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
